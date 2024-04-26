@@ -1,8 +1,7 @@
-### Hi there 👋
+###
 
-I'm currently learning C++
+Real
 
-I really like programming and I see my future as a Full-stack programmer
 <!--
 **FridyNF/FridyNF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
